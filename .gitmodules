@@ -1,3 +1,6 @@
 [submodule "admin-common"]
 	path = admin-common
 	url = https://github.com/trongdat1998/admin-common.git
+[submodule "admin-saas-web"]
+	path = admin-saas-web
+	url = https://github.com/trongdat1998/admin-saas-web.git
