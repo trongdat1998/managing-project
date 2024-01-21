@@ -1,0 +1,3 @@
+[submodule "admin-common"]
+	path = admin-common
+	url = https://github.com/trongdat1998/admin-common.git
